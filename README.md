@@ -4,10 +4,11 @@ This repository contains a detailed Power BI dashboard presenting insights into 
 
 # Key Features:
 Summary of T20 World Cup 2022
-Total Matches: 42
-Total Runs: 11,000+
-Total Fours: 909
+Total Matches: 42,
+Total Runs: 11,000+,
+Total Fours: 909,
 Total Sixes: 331
+
 Decision-wise match distribution (Bat first vs Bowl first)
 Venue Performance Analysis
 
