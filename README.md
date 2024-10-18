@@ -31,6 +31,12 @@ The dashboard includes a variety of visualizations such as bar charts, tables, a
 # Dashboard 1 
 ![Screenshot (2)](https://github.com/user-attachments/assets/4281248c-c2c5-4b5e-bd65-56b160a58d87)
 
+# Dashboard 2
+![Screenshot (3)](https://github.com/user-attachments/assets/2e7c2d2a-b68b-4d41-a175-8b2526a67117) 
+
+# Dashboard 3 
+![Screenshot (4)](https://github.com/user-attachments/assets/2f71233e-297f-4453-a00f-96161470841c) 
+
 # Usage:
 Interactive Filters: Users can select specific teams, batsmen, and bowlers using the interactive filters present in the dashboard.
 Dynamic Charts: Charts update dynamically based on user selections, making the analysis customizable.
