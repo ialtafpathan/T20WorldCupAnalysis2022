@@ -27,6 +27,10 @@ Highlights the top bowlers like Wanindu Hasaranga and others.
 
 # Visualizations:
 The dashboard includes a variety of visualizations such as bar charts, tables, and cards to present the data in an easy-to-understand format. Users can filter the data by teams, players, and venues for a more focused analysis.
+
+# Dashboard 1 
+![Screenshot (2)](https://github.com/user-attachments/assets/4281248c-c2c5-4b5e-bd65-56b160a58d87)
+
 # Usage:
 Interactive Filters: Users can select specific teams, batsmen, and bowlers using the interactive filters present in the dashboard.
 Dynamic Charts: Charts update dynamically based on user selections, making the analysis customizable.
